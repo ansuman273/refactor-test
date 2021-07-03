@@ -7,7 +7,7 @@ For node, simply call
 
 For the browser, open TennisTest.html and refresh after change.
 
-# Refractor Imrovements
+# Refactor Imrovements
 
 1. Added JsDoc for author comments and documentation which enhances the overall readability and makes it easy maintainable code.
 
